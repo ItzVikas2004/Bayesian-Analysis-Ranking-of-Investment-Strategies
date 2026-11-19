@@ -1,0 +1,29 @@
+mode: full
+seed: 42
+data:
+  start: "2015-01-01"
+  end: "2025-12-31"
+  train_end: "2020-12-31"
+  validation_end: "2022-12-31"
+  universe: [SPY, QQQ, IWM, DIA, GLD, TLT, XLF, XLK, XLE, AAPL, MSFT, AMZN, KO, PEP, XOM, CVX, V, MA]
+  cache_dir: data/cache
+backtest:
+  initial_capital: 100000
+  fee_bps: 10
+  slippage_bps: 5
+  max_gross_exposure: 1.0
+bayesian:
+  draws: 2000
+  tune: 1000
+  chains: 4
+  target_accept: 0.95
+portfolio:
+  top_n: 3
+  lookback_days: 756
+  rebalance: monthly
+pairs:
+  candidates: [[KO, PEP], [XOM, CVX], [V, MA]]
+  significance: 0.05
+  lookback: 126
+  entry_z: 2.0
+  exit_z: 0.5

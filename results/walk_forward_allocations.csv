@@ -1,0 +1,37 @@
+rebalance_date,selected,weight_EMA Crossover,weight_Time-Series Momentum,weight_Cross-Sectional Momentum,weight_Inverse-Volatility Portfolio,weight_Buy-and-Hold,weight_Dual Momentum Rotation,weight_SMA Crossover,weight_Volatility Targeting,weight_Bollinger Mean Reversion
+2023-01-03,Cross-Sectional Momentum;Time-Series Momentum;EMA Crossover,0.24523352156688857,0.2743777474042188,0.4803887310288926,,,,,,
+2023-02-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Time-Series Momentum,,0.2661375554857039,0.4671290541598334,0.26673339035446264,,,,,
+2023-03-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;EMA Crossover,0.2649722684968873,,0.45650589000574043,0.27852184149737214,,,,,
+2023-04-03,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Buy-and-Hold,,,0.383481637461392,0.3387246844586754,0.2777936780799325,,,,
+2023-05-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Dual Momentum Rotation,,,0.3956506632860062,0.3096644346238458,,0.294684902090148,,,
+2023-06-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;SMA Crossover,,,0.4135734925205392,0.3032465771533212,,,0.2831799303261396,,
+2023-07-03,Cross-Sectional Momentum;SMA Crossover;Inverse-Volatility Portfolio,,,0.3667409640367176,0.29907515164112863,,,0.3341838843221538,,
+2023-08-01,Cross-Sectional Momentum;SMA Crossover;Volatility Targeting,,,0.36461699104324946,,,,0.333482713004339,0.3019002959524116,
+2023-09-01,Cross-Sectional Momentum;Bollinger Mean Reversion;SMA Crossover,,,0.3566886417808747,,,,0.3192529091887251,,0.3240584490304002
+2023-10-02,Cross-Sectional Momentum;SMA Crossover;Inverse-Volatility Portfolio,,,0.3613606513713045,0.31651374748076716,,,0.3221256011479283,,
+2023-11-01,Cross-Sectional Momentum;SMA Crossover;Inverse-Volatility Portfolio,,,0.34064809420779685,0.3260621152833278,,,0.3332897905088754,,
+2023-12-01,Cross-Sectional Momentum;Bollinger Mean Reversion;Inverse-Volatility Portfolio,,,0.38683273610786445,0.3014305878487306,,,,,0.3117366760434048
+2024-01-02,Cross-Sectional Momentum;Bollinger Mean Reversion;Inverse-Volatility Portfolio,,,0.3687700659666057,0.3111860412145076,,,,,0.32004389281888673
+2024-02-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Bollinger Mean Reversion,,,0.37379753095512347,0.31523214964499535,,,,,0.3109703193998812
+2024-03-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Volatility Targeting,,,0.395633141324311,0.30583739665621423,,,,0.2985294620194747,
+2024-04-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Volatility Targeting,,,0.4044408592516112,0.30139826448142887,,,,0.29416087626695997,
+2024-05-01,Cross-Sectional Momentum;Dual Momentum Rotation;Bollinger Mean Reversion,,,0.4163082756345046,,,0.29334667240796575,,,0.2903450519575296
+2024-06-03,Cross-Sectional Momentum;Dual Momentum Rotation;Inverse-Volatility Portfolio,,,0.40556758304075174,0.2807975555111137,,0.3136348614481346,,,
+2024-07-01,Cross-Sectional Momentum;Dual Momentum Rotation;Volatility Targeting,,,0.4036227642458974,,,0.323593428903472,,0.27278380685063075,
+2024-08-01,Cross-Sectional Momentum;Dual Momentum Rotation;Inverse-Volatility Portfolio,,,0.38380696911564055,0.2629041164115881,,0.3532889144727713,,,
+2024-09-03,Cross-Sectional Momentum;Dual Momentum Rotation;Inverse-Volatility Portfolio,,,0.3870389970821252,0.30046606393272746,,0.3124949389851474,,,
+2024-10-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Volatility Targeting,,,0.37303507240677247,0.32964686150627054,,,,0.29731806608695704,
+2024-11-01,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Volatility Targeting,,,0.37758676672547015,0.3245271617558206,,,,0.2978860715187092,
+2024-12-02,Cross-Sectional Momentum;Inverse-Volatility Portfolio;Volatility Targeting,,,0.35771259880136413,0.3288929180667028,,,,0.31339448313193313,
+2025-01-02,Cross-Sectional Momentum;Dual Momentum Rotation;Bollinger Mean Reversion,,,0.3717513469203622,,,0.31722694876650775,,,0.31102170431313003
+2025-02-03,Volatility Targeting;SMA Crossover;Bollinger Mean Reversion,,,,,,,0.3303601238767488,0.3435445048182041,0.3260953713050473
+2025-03-03,Volatility Targeting;Inverse-Volatility Portfolio;Buy-and-Hold,,,,0.33455816241124703,0.3249459953059912,,,0.34049584228276175,
+2025-04-01,Inverse-Volatility Portfolio;Volatility Targeting;EMA Crossover,0.32305025393944803,,,0.34328322681072176,,,,0.33366651924983026,
+2025-05-01,EMA Crossover;Volatility Targeting;Inverse-Volatility Portfolio,0.35643953708338044,,,0.31065669691122394,,,,0.3329037660053955,
+2025-06-02,Buy-and-Hold;Volatility Targeting;Inverse-Volatility Portfolio,,,,0.32042093805783056,0.3483265966216041,,,0.33125246532056535,
+2025-07-01,Buy-and-Hold;Volatility Targeting;Inverse-Volatility Portfolio,,,,0.3264642484739612,0.3455016986059507,,,0.32803405292008797,
+2025-08-01,EMA Crossover;Buy-and-Hold;Volatility Targeting,0.33654097490933277,,,,0.33515112791421536,,,0.32830789717645187,
+2025-09-02,Volatility Targeting;Buy-and-Hold;EMA Crossover,0.32800360948109075,,,,0.3345309737228803,,,0.3374654167960288,
+2025-10-01,Buy-and-Hold;Volatility Targeting;Inverse-Volatility Portfolio,,,,0.3302029280719847,0.33691861696492187,,,0.3328784549630933,
+2025-11-03,Buy-and-Hold;Volatility Targeting;EMA Crossover,0.32848636598461706,,,,0.3403954746250922,,,0.3311181593902909,
+2025-12-01,Buy-and-Hold;Volatility Targeting;SMA Crossover,,,,,0.3401205538501579,,0.32885170147074677,0.33102774467909546,

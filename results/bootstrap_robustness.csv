@@ -1,0 +1,2 @@
+statistic,observed,bootstrap_ci_lower,bootstrap_ci_upper,bootstrap_p_gt_zero,block_days,resamples
+Sharpe difference: Bayesian minus static,0.3031646229980189,-0.1897393068320243,0.7719957735925397,0.856,21,1000

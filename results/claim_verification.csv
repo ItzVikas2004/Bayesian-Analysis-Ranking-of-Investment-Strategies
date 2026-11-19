@@ -1,0 +1,5 @@
+claim,observed,supported
+Sharpe improvement >= 0.33,0.3031646229980212,False
+Relative drawdown reduction >= 8%,22.102068656215607,True
+Relative VaR reduction >= 12%,28.952415885440153,True
+Absolute drawdown reduction (percentage points),4.740193480145227,
